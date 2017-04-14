@@ -1,1 +1,1 @@
-# electron-logging
+# app-icon-consolidate
